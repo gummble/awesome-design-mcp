@@ -61,6 +61,7 @@ Bring your own design files into the agent's context.
 
 Generate new UI or pull production-ready components.
 
+- **[IconVectors MCP](https://iconvectors.io/help/mcp-integration.html)** — local stdio MCP server for creating, inspecting, editing, previewing, and exporting SVG icons in the running IconVectors desktop application. Requires IconVectors 2.00 for Windows to be installed and running.
 - **[Stitch MCP](https://stitch.withgoogle.com/docs/mcp/setup/)** — Google Stitch's MCP
   integration: generate screens from text prompts and pull the designs (screenshots + HTML)
   straight into your coding agent.
