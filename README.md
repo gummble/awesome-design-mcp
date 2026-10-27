@@ -68,6 +68,9 @@ Generate new UI or pull production-ready components.
   describe a component and get a polished, editable React implementation.
 - **[shadcn MCP](https://ui.shadcn.com/docs/mcp)** — browse, search, and install components
   from shadcn/ui registries via natural language.
+- **[Kite MCP](https://kite.new/api/mcp)** — hosted MCP for [Kite](https://kite.new/), an
+  agent-first design canvas with Figma-class editing where humans and coding agents share one
+  HTML/CSS file (components, variants, variable modes; Figma paste both ways). Remote server.
 
 ## Visual QA & debugging
 
@@ -89,6 +92,8 @@ Let the agent see and verify what it built.
   [Gummble](https://gummble.com/mcp) is currently the only design MCP that exposes UX writing
   as a searchable tool.
 - **Your source of truth is a Figma file?** Use Figma's official MCP server (or Framelink).
+- **Agents and humans editing the same live design file?** [Kite MCP](https://kite.new/api/mcp)
+  keeps one HTML/CSS canvas that both can edit (Figma paste both ways).
 - **No design exists yet and you want one generated?** Stitch for full screens, Magic or
   shadcn for components.
 - **Shipping and want the agent to verify its own UI?** Playwright MCP or Chrome DevTools MCP.
