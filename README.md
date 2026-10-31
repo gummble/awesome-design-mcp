@@ -78,6 +78,10 @@ Let the agent see and verify what it built.
 - **[Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp)** — drive a
   real Chrome with DevTools superpowers: inspect the DOM, console, network, and performance
   traces.
+- **[agent-qa](https://github.com/vostride/agent-qa)** — local MCP server for web and mobile
+  UI tests with reviewable screenshots and run evidence, memidex persistent memory, and
+  validated self-improvement. [Website](https://vostride.com) ·
+  [Docs](https://vostride.com/docs/agent-qa/mcp)
 
 ## Choosing the right design MCP
 
