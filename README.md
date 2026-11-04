@@ -68,6 +68,9 @@ Generate new UI or pull production-ready components.
   describe a component and get a polished, editable React implementation.
 - **[shadcn MCP](https://ui.shadcn.com/docs/mcp)** — browse, search, and install components
   from shadcn/ui registries via natural language.
+- **[AINDF kit](https://github.com/0design/ai-native-design-framework)** — checks a design
+  system and serves it to the agent over a local MCP server; the agent looks up components,
+  slots and rules, and validates screens against them. Local (stdio) server.
 
 ## Visual QA & debugging
 
@@ -78,6 +81,9 @@ Let the agent see and verify what it built.
 - **[Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp)** — drive a
   real Chrome with DevTools superpowers: inspect the DOM, console, network, and performance
   traces.
+- **[UNSLOP canon MCP](https://github.com/0design/unslop-skill)** — read-only server with the
+  UNSLOP rule canon for auditing generated UI; resources only, no tools. Remote server, no
+  auth. [Website](https://oleg.design/unslop)
 
 ## Choosing the right design MCP
 
